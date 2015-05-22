@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/takeaki/StudioProjects/NextBus_Phase2_13W2/app/src/main/res/values/refs.xml -->
+    <eat-comment/>
+    <item name="activity_nextbus" type="layout">@layout/fragment_stop_list</item>
+    <!-- From: file:/Users/takeaki/StudioProjects/NextBus_Phase2_13W2/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="about">About</string>
+    <string name="add_stop">Add Stop</string>
+    <string name="add_stop_title">Enter Stop</string>
+    <string name="app_name">NextBus</string>
+    <string name="delete_stop">Delete Stop?</string>
+    <string name="legend">Route and arrival data used in this 
+	    product or service is provided by permission of TransLink. 
+	    TransLink assumes no responsibility for the accuracy or 
+	    currency of the data used in this product or service.</string>
+    <string name="map_stops">Map View</string>
+    <string name="no_data">Add a stop…</string>
+    <string name="ok">OK</string>
+    <string name="title_detail">Favourites</string>
+    <string name="title_next_bus">Next Bus</string>
+    <!-- From: file:/Users/takeaki/StudioProjects/NextBus_Phase2_13W2/app/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="AppTheme" parent="android:Theme.Light"/>
+</resources>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/takeaki/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.1.1/support-annotations-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="/Users/takeaki/StudioProjects/NextBus_Phase2_13W2/app/build/intermediates/pre-dexed/debug/support-annotations-22.1.1-98c0e9cc0516f6c1bd02b58276b1528dd9fd0a43.jar" />
+    </item>
+    <item
+        jar="/Users/takeaki/StudioProjects/NextBus_Phase2_13W2/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="/Users/takeaki/StudioProjects/NextBus_Phase2_13W2/app/build/intermediates/pre-dexed/debug/classes-7dc596a6345c274e7453c31cbaf6915a1304d6ec.jar" />
+    </item>
+    <item
+        jar="/Users/takeaki/StudioProjects/NextBus_Phase2_13W2/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/jars/libs/internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="/Users/takeaki/StudioProjects/NextBus_Phase2_13W2/app/build/intermediates/pre-dexed/debug/internal_impl-22.1.1-b7441764fe6a19b95f39bfcaf3836ffc30322899.jar" />
+    </item>
+    <item
+        jar="/Users/takeaki/StudioProjects/NextBus_Phase2_13W2/app/libs/slf4j-android-1.5.8.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="404eece4bb07ea211f5a879c22458775c612f0df">
+        <dex dex="/Users/takeaki/StudioProjects/NextBus_Phase2_13W2/app/build/intermediates/pre-dexed/debug/slf4j-android-1.5.8-fbb103b6a005ed1257ec8d71b6cdc657d2dae025.jar" />
+    </item>
+    <item
+        jar="/Users/takeaki/StudioProjects/NextBus_Phase2_13W2/app/libs/osmdroid-android-4.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="60913edd9f91f63a5106e3bfc06b2fddda657303">
+        <dex dex="/Users/takeaki/StudioProjects/NextBus_Phase2_13W2/app/build/intermediates/pre-dexed/debug/osmdroid-android-4.1-9b61066611ab029f282b0f56a8b6dfec4c53f647.jar" />
+    </item>
+
+</items>
